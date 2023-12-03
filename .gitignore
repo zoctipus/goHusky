@@ -1,0 +1,9 @@
+Assets/
+Logs/
+Packages/
+UserSettings/
+Assembly-CSharp.csproj
+goHusky.sln
+.vscode/
+
+*.onnx
