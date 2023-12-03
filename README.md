@@ -12,13 +12,18 @@ This a a project adapted from [Puppo, The Corgi - Unity Blog](https://blog.unity
 ## Modern Ways of Using ML-Agents Library Function Calls <a name="modern-ml-agents"></a>
 
 - Describe the modern ways of using ML-Agents library function calls in your project.
-- Provide code examples and explanations.
+- Initialize()
+- OnEpisodeBegin()
+- CollectObservations(VectorSensor sensor)
+- OnActionReceived(ActionBuffers actions)
+- FixedUpdate()
 
 ## UW-Themed Scene with Husky <a name="uw-themed-scene"></a>
 
 - Showcase the UW-themed scene with the Husky character.
-- Include screenshots or videos of the scene.
-- Explain the scene's purpose and any specific features.
+![Alt Text](goHusky.png)
+- [Demo](https://drive.google.com/file/d/16MwlWZDvgC36cPbYV7LD5hqD-6m4coSb/view?usp=drive_link)
+
 
 ## Training Script Provided <a name="training-script"></a>
 
