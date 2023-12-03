@@ -1,4 +1,4 @@
-# Project Name: goHusky
+# Project GoHusky : a RL motion based Husky playground in Quad UW
 
 This a a project adapted from [Puppo, The Corgi - Unity Blog](https://blog.unity.com/engine-platform/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit) With update and new features of 
 
