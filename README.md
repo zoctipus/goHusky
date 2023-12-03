@@ -57,7 +57,7 @@ This a a project adapted from [Puppo, The Corgi - Unity Blog](https://blog.unity
 - In the Inspector, adjust `PosX` and `PosY` properties as needed.
 
 
-## Training Script(from Hugging Face)
+## Training Script(adopted from Hugging Face)
 
 ```yaml
 behaviors:
