@@ -1,7 +1,6 @@
-Project goHusky
+# Project Name: goHusky
 
 This a a project adapted from [Puppo, The Corgi - Unity Blog](https://blog.unity.com/engine-platform/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit) With update of 
-# Project Name: goHusky
 
 ## Contents
 
