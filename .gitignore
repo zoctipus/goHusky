@@ -9,3 +9,6 @@ Library/
 ProjectSettings/
 Temp/
 *.onnx
+*.x86_64
+results/
+goHusky_Data/
